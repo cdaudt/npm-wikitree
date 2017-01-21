@@ -1,0 +1,18 @@
+{
+  "name": "wikitree",
+  "description": "wikitree API access functions",
+  "author":  {
+    "email": "csd@fixthebug.org",
+    "name": "Christian Daudt"
+  },
+  "keywords": "wikitree",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "minimist": "*",
+    "mocha": "^3.1.2"
+  }
+}
